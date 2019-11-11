@@ -1,6 +1,6 @@
 ## all files
 
-[https://9kbx.github.io/chromedriver-download/](https://9kbx.github.io/chromedriver-download/)
+[http://chromedriver.storage.googleapis.com/index.html](http://chromedriver.storage.googleapis.com/index.html)
 
 ## win32 files
 
