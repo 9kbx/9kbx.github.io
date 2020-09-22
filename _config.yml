@@ -6,17 +6,17 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: HyG
+title: 9KB
 brief-intro: Front-end Dev Engineer
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://gaohaoyang.github.io" # the base hostname & protocol for your site
+url: "https://9kbx.github.io" # the base hostname & protocol for your site
 
-permalink: /:year/:month/:day/:title/
+permalink: /:title/
 
 # other links
 twitter_username: 
-facebook_username: ifirex
-github_username:  firex
+facebook_username: 9kb
+github_username:  9kbx
 email: ifirex@126.com
 weibo_username: ifirex
 zhihu_username: ifirex
