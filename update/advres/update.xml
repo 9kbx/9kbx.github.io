@@ -1,6 +1,6 @@
 <Root>
-  <Server Version="2.5.11.0" Hash="d177dbf76c4705317fffed3c2b597afb" Url="rK1PtXCtUDtYTq4Ryv31Xf4gXx0uZFzQlFbCqGyRGe6q0Pg1OYWwSMIj4JXu0DclnibLKNhc/apsj9u6QwPwBA==" />
-  <Update AutoUpdate="true" Url="rK1PtXCtUDtYTq4Ryv31Xf4gXx0uZFzQlFbCqGyRGe7aG4pcgSKYJIwD4dBzni/7rFv0ToMYsnMqk4du9LUe9Q==">
+  <Server Version="2.5.11.0" Hash="b6d2fd4390a8fea5861c5bf51166a103" Url="+iae+5EbjrS8DqUNpcVeKT+7zgikSRWiXU+OG0GbLaXLTZmOTFa3QEA29ViPZnbfF21Uv2RACo8wo2GBX2YODGhBSvWeymGL/TjilecxWZpu8n9KTWBgo5CeoKYZ3EE6" />
+  <Update AutoUpdate="true" Url="+iae+5EbjrS8DqUNpcVeKT+7zgikSRWiXU+OG0GbLaXLTZmOTFa3QEA29ViPZnbfF21Uv2RACo8wo2GBX2YODFZDvwLw6/2wL/9Evu5LTWmwYSLQh9fGvzOxm8RqHjkx">
     <KillProcess>AdvRes.exe|AutoApiTools.exe</KillProcess>
     <Backup>data.db|update.xml</Backup>
   </Update>
