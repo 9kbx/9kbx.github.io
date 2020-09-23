@@ -1,7 +1,10 @@
 <Root>
-  <Server Version="2.5.11.0" Hash="88a4efbe02091ee717f96dfc3da27e9a" Url="+iae+5EbjrS8DqUNpcVeKT+7zgikSRWiXU+OG0GbLaXLTZmOTFa3QEA29ViPZnbfF21Uv2RACo8wo2GBX2YODFZDvwLw6/2wL/9Evu5LTWk6tWoPxICvNiIYxYj/0UUu" />
-  <Update AutoUpdate="true" Url="+iae+5EbjrS8DqUNpcVeKT+7zgikSRWiXU+OG0GbLaXLTZmOTFa3QEA29ViPZnbfF21Uv2RACo8wo2GBX2YODFZDvwLw6/2wL/9Evu5LTWmwYSLQh9fGvzOxm8RqHjkx">
+  <Server Version="2.5.11.0" Hash="441dbad8576afce6b3bcc152dfd11464">
+    <ConfigUrl>+iae+5EbjrS8DqUNpcVeKT+7zgikSRWiXU+OG0GbLaXLTZmOTFa3QEA29ViPZnbfF21Uv2RACo8wo2GBX2YODFZDvwLw6/2wL/9Evu5LTWmwYSLQh9fGvzOxm8RqHjkx</ConfigUrl>
+    <LatestUrl>+iae+5EbjrS8DqUNpcVeKT+7zgikSRWiXU+OG0GbLaXLTZmOTFa3QEA29ViPZnbfF21Uv2RACo8wo2GBX2YODFZDvwLw6/2wL/9Evu5LTWk6tWoPxICvNiIYxYj/0UUu</LatestUrl>
+  </Server>
+  <Client AutoUpdate="true">
     <KillProcess>AdvRes.exe|AutoApiTools.exe</KillProcess>
-    <Backup>data.db|update.xml</Backup>
-  </Update>
+    <BackupFiles>data.db|update.xml</BackupFiles>
+  </Client>
 </Root>
