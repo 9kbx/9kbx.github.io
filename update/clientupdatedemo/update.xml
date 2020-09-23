@@ -1,5 +1,5 @@
 <Root>
-  <Server Version="2.0.0.0" Hash="3ed896dfbd1d0acb2e02311496fdc562" Url="+iae+5EbjrS8DqUNpcVeKT+7zgikSRWiXU+OG0GbLaXLTZmOTFa3QEA29ViPZnbfF21Uv2RACo8wo2GBX2YODKQEs+pZDCn2TrNdeZ6Etc6ylE8Eqf06dXdaCZuqBNst" />
+  <Server Version="3.0.0.0" Hash="769d61017252f37e412b3b7ec31c4737" Url="+iae+5EbjrS8DqUNpcVeKT+7zgikSRWiXU+OG0GbLaXLTZmOTFa3QEA29ViPZnbfF21Uv2RACo8wo2GBX2YODKQEs+pZDCn2TrNdeZ6Etc6ylE8Eqf06dXdaCZuqBNst" />
   <Update AutoUpdate="true" Url="+iae+5EbjrS8DqUNpcVeKT+7zgikSRWiXU+OG0GbLaXLTZmOTFa3QEA29ViPZnbfF21Uv2RACo8wo2GBX2YODKQEs+pZDCn2TrNdeZ6Etc60pcK5jBiBdID06i4vtclg">
     <KillProcess>ClientUpdateDemo.exe</KillProcess>
     <Backup>
