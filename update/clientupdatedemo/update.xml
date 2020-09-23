@@ -1,0 +1,7 @@
+<Root>
+  <Server Version="2.0.0.0" Hash="b044e27bcb69d883056527d5429cc596" Url="+iae+5EbjrS8DqUNpcVeKT+7zgikSRWiXU+OG0GbLaXLTZmOTFa3QEA29ViPZnbfF21Uv2RACo8wo2GBX2YODKQEs+pZDCn2TrNdeZ6Etc6ylE8Eqf06dXdaCZuqBNst" />
+  <Update AutoUpdate="true" Url="+iae+5EbjrS8DqUNpcVeKT+7zgikSRWiXU+OG0GbLaXLTZmOTFa3QEA29ViPZnbfF21Uv2RACo8wo2GBX2YODKQEs+pZDCn2TrNdeZ6Etc60pcK5jBiBdID06i4vtclg">
+    <KillProcess>AdvRes.exe|AutoApiTools.exe</KillProcess>
+    <Backup>data.db|update.xml</Backup>
+  </Update>
+</Root>
